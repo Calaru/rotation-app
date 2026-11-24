@@ -1,2 +1,2 @@
-# rotation-app
+# rotation-manager
 手動選択やランダム生成に対応した組み合わせローテーション管理アプリ
