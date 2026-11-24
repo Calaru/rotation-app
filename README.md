@@ -1,2 +1,2 @@
-# rotation-manager
+# rotaset
 手動選択やランダム生成に対応した組み合わせローテーション管理アプリ
